@@ -754,6 +754,11 @@ h3.my-profession {
   display: block;
 }
 
+.portofolio .portofolio-item-inner .portofolio-img img:hover {
+  opacity: 0.3;
+  cursor: pointer;
+}
+
 /* contact */
 .contact-title {
   color: var(--skin-color);

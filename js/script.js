@@ -1,6 +1,6 @@
 // typing animation
-var typed = new Typed(".typing", {
-  strings: ["", "Software Engineer", "Web Developer", "Web Designer", "Scrum Master", "Freelancer"],
+let typed = new Typed(".typing", {
+  strings: ["", "Software Engineer", "Web Developer", "Web Designer", "Freelancer"],
   typeSpeed: 100,
   BackSpeed: 60,
   loop: true
@@ -11,7 +11,7 @@ const nav = document.querySelector('.nav'),
       navlist = nav.querySelectorAll('li'),
       totalNavList = navlist.length;
 
-      allSection = document.querySelectorAll('.section'),
+      let allSection = document.querySelectorAll('.section'),
       totalSection = allSection.length;
 
       for (let i = 0; i < totalNavList; i++) {
