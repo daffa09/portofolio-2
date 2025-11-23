@@ -2,10 +2,12 @@
 <!-- slug: portofolio-2 -->
 <!-- title: Portfolio 2.0 -->
 <!-- description: My second portfolio website showcasing evolved web development skills with modern design and improved user experience -->
-<!-- image: https://github.com/user-attachments/assets/placeholder-portfolio-2 -->
+<!-- image: https://github.com/user-attachments/assets/641f4d3f-b2da-4d4a-9fee-1be819253a63 -->
 <!-- tags: html, css, javascript, portfolio, responsive, modern-design -->
 
 # Portfolio 2.0
+
+<img width="1907" height="845" alt="image" src="https://github.com/user-attachments/assets/641f4d3f-b2da-4d4a-9fee-1be819253a63" />
 
 My second portfolio website, representing growth and evolution in web development skills. This iteration features improved design, better user experience, and showcases projects with enhanced presentation.
 
